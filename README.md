@@ -40,7 +40,7 @@ With the use of Mediapipe technology, we achieved real-time recognition of hand 
 
 The proposed transfer learning model has demonstrated impressive accuracy, achieving 99% accuracy for both the ASL character recognition and custom gesture recognition models.
 
-![Sample Image](link-to-image.png)
+![Sample Image](project_poster_group8_page-0001.jpg)
 
 *Note: Add a relevant image here to showcase the sign language recognition system in action.*
 
@@ -50,4 +50,4 @@ This project demonstrates the potential of deep computer vision techniques in en
 
 If you are interested in contributing to this project or have any feedback, please feel free to reach out!
 
-*Author: [Your Name](link-to-your-github-profile)*
+*Author: [ARJUN S](https://github.com/arjunaju123)*
