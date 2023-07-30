@@ -1,0 +1,21 @@
+test.py // Contains real time implementation of the model
+
+asl_alphabet_train // This is the real data for training which is downloaded from kaggle. "crop_full" is modified from this
+
+asl_alphabet_test // This is the real data for testing which is downloaded from kaggle. ""crop_full_test" is modified from this
+
+data_collection.py // Collection of data using landmark detection technique
+
+dataset_modifier.py // Modification of dataset collected from kaggle using landmark detection
+
+crop_full //This folder contains all the modified data for training and validation purpose
+
+crop_full_test // This folder contains images for testing
+
+logs// This folder stores the saved text in test.py
+
+voice_logs// This folder stores the converted text to voice speech in test.py
+
+Model // This folder stores the computer vision model in h5 format and also contains labels.txt file which indicates the output labels we are predicting
+
+envs// contains the environment to run the project
