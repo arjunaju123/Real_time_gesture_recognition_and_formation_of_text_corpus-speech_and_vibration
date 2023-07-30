@@ -1,0 +1,1 @@
+# Real_time_gesture_recognition_and_formation_of_text_corpus-speech_and_vibration
