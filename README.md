@@ -42,8 +42,6 @@ The proposed transfer learning model has demonstrated impressive accuracy, achie
 
 ![Sample Image](project_poster_group8_page-0001.jpg)
 
-*Note: Add a relevant image here to showcase the sign language recognition system in action.*
-
 ## Conclusion
 
 This project demonstrates the potential of deep computer vision techniques in enhancing the accessibility and widespread use of sign language. The combination of ASL character recognition and custom gesture recognition models provides a versatile and efficient system for real-time sign language interpretation and communication.
